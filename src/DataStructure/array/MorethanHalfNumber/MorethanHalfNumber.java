@@ -10,6 +10,7 @@ import java.util.Map;
 public class MorethanHalfNumber {
 
     //1.利用map存值，找出存值最多并且大于长度一半的元素
+    //  时间复杂度O(n)
     public static int MoreHalfNumber_Solution(int [] array){
 
             if(array.length == 0 || array == null){
@@ -24,11 +25,10 @@ public class MorethanHalfNumber {
                 }else{
                     map.put(array[i],map.get(array[i]) + 1);
                 }
-
             }
             //遍历map找出value大于长度一半的元素
             for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-                if(entry.getValue() > (array.length / 2)){
+                if(entry.getValue() > (array.length >> 1)){
                     return entry.getKey();
                 }
             }
@@ -37,17 +37,18 @@ public class MorethanHalfNumber {
     }
 
     //2.将数组进行排序，若该元素超过数组长度一半，则为中位数
+    //  但由于涉及到快排sort，其时间复杂度为O(NlogN)并非最优
     public static int MoreHalf_Solution(int [] array){
         //数组排序
         Arrays.sort(array);
         int count = 0;
         for(int i=0; i< array.length; i++){
-            if(array[i] == array[array.length / 2]){
+            if(array[i] == array[array.length >> 1]){
                 count ++;
             }
         }
-        if(count > array.length / 2){
-            return array[array.length / 2];
+        if(count > array.length >> 1){
+            return array[array.length >> 1];
         }else{
             return 0;
         }
@@ -62,8 +63,4 @@ public class MorethanHalfNumber {
         System.out.println("返回的结果n是："+ n);
         System.out.println("返回的结果m是："+ m);
     }
-
-
-
-
 }
