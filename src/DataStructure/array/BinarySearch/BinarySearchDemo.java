@@ -1,4 +1,4 @@
-package DataStructure.Array;
+package DataStructure.Array.BinarySearch;
 
 /**
  * Created by panzhiwei on 2018/10/15.
@@ -11,7 +11,7 @@ import java.util.Arrays;
  每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序
  请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
  */
-public class ArrayDemo {
+public class BinarySearchDemo {
 
     //通过二分查找法判断是否存在
     public static boolean FindTarget(int target , int arr[][]){
@@ -43,6 +43,7 @@ public class ArrayDemo {
         int target  = 25;
         int arr[][] = {{1,2,25},{52,85,45}};
 
+        Arrays.sort(new int[]{2,5,4,6,3});
         Long startTime = System.currentTimeMillis();
         Boolean flag = FindTarget(target,arr);
         long endTime = System.currentTimeMillis();
