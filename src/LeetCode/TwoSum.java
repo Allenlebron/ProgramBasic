@@ -69,14 +69,11 @@ public class TwoSum {
         for (int i = 0;i < nums.length;i++){
             map.put(nums[i],i);
         }
-
         for (int i = 0;i < nums.length;i++){
-
             int nextNum = target - nums[i];
             if(map.containsKey(nextNum)){
                 return new int[] {i,map.get(nextNum)};
             }
-
         }
         return null;
     }
