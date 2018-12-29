@@ -5,7 +5,10 @@ package Algorithm.sort;
  */
 public class SelectionSort {
 
-    //选择排序
+    // 选择排序
+    // 选择排序将数组分成已排序区间和未排序区间。
+    // 初始已排序区间为空。每次从未排序区间中选出最小的元素插入已排序区间的末尾，直到未排序区间为空。
+
     public static void selectionSort(int a[]){
 
         if (a.length <= 1) return;
