@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by panzhiwei on 2018/11/8.
- *
+ * 动态数组实现
  */
 public class GenericArray<T> {
     //数据类型不确定

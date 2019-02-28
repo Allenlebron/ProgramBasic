@@ -76,9 +76,7 @@ public class ArrayBasic {
         for(int i = 0; i < count; i++){
             System.out.println(data[i] + "");
         }
-
     }
-
 
     public static void main(String[] args) {
         ArrayBasic ab = new ArrayBasic(5);
