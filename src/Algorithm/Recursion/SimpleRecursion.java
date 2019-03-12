@@ -15,7 +15,28 @@ public class SimpleRecursion {
         return Flib(num - 1) + Flib(num - 2);
     }
 
+    public static long FlibOther(long num){
+
+        if(num < 2){
+            return num;
+        }
+
+        long first = 0L;
+        long result = 1L;
+
+        while(num > 1){
+            long temp = result;
+            result += first;
+            first = temp;
+            num--;
+        }
+
+        return result;
+    }
+
     public static void main(String[] args) {
+
         System.out.println("Result:"+ Flib(10));
+        System.out.println("Result:"+ FlibOther(10));
     }
 }
