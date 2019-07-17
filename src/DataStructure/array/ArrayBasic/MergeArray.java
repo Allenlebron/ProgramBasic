@@ -44,7 +44,7 @@ public class MergeArray {
     public static void main(String[] args) {
 
         int a[] = {1,2,3,4,10};
-        int b[] = {2,6,7,9};
+        int b[] = {2,6,7,11};
 
         int[] result = MergeTwoArray(a,b);
 

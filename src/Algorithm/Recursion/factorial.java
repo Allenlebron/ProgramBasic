@@ -5,7 +5,7 @@ package Algorithm.Recursion;
  * 编程实现求阶乘 n!
 
  */
-public class Factorial {
+class Factorial {
     public static long factorial(long num){
         if(num < 0){
             return 0;

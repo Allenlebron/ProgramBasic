@@ -9,8 +9,10 @@ public class SimpleRecursion {
 
     //斐波那契数列
     public static long Flib(long num){
-        if(num == 0 || num == 1)
+
+        if(num == 0 || num == 1) {
             return num;
+        }
 
         return Flib(num - 1) + Flib(num - 2);
     }
@@ -36,7 +38,15 @@ public class SimpleRecursion {
 
     public static void main(String[] args) {
 
-        System.out.println("Result:"+ Flib(10));
-        System.out.println("Result:"+ FlibOther(10));
+        long start1 = System.currentTimeMillis();
+        long result1 = Flib(50);
+        long end1 = System.currentTimeMillis();
+
+        long start2 = System.currentTimeMillis();
+        long result2 = FlibOther(50);
+        long end2 = System.currentTimeMillis();
+
+        System.out.println("Result1:"+ result1 +" 耗时："+(end1 - start1) +"ms");
+        System.out.println("Result2:"+ result2 +" 耗时："+(end2 - start2) +"ms");
     }
 }

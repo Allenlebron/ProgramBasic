@@ -38,12 +38,13 @@ public class MostOfArray {
     public static int mostOfArr(int arr[]){
 
         Arrays.sort(arr);
-        return arr[arr.length >> 1];
+        int num = arr.length >> 1;
+        return arr[num];
     }
 
     public static void main(String[] args) {
 
-        int arr[] = {3,2,3};
+        int arr[] = {3,2,4,3,4,4};
         long time = System.currentTimeMillis();
         int result = mostOfArr(arr);
         System.out.println("返回结果：" + result);
