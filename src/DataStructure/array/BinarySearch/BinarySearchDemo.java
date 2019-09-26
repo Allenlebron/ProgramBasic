@@ -38,7 +38,6 @@ public class BinarySearchDemo {
     }
 
 
-
     public static void main(String[] args) {
         int target  = 25;
         int arr[][] = {{1,2,25},{52,85,45}};

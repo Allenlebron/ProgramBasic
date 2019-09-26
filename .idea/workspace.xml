@@ -2,37 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7ab7cb-ecc0-4f2b-853c-81e1b0c9ab48" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Algorithm/StringAbout/StringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/ArrayBasic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/GenericArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/BinarySearch/BinarySearchDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/MorethanHalfNumber/MorethanHalfNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/array.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/linked.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/数组和链表实现缓存淘汰策略.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Queue/ArrayQueue/ArrayQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Queue/queue.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/ArrayStack/ArrayStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/stack.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/LeetCode/TwoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloWorld/src/DataStructure/array/ArrayIndexOutBoundsException/ArrayIndexOutBounds.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreadDemo/DeadLockDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreadDemo/ProductConsumerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreadDemo/UnsafeList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Algorithm/StringAbout/StringDemo.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Algorithm/StringAbout/StringDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/ArrayBasic.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/ArrayBasic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/GenericArray.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/ArrayBasic/GenericArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/BinarySearch/BinarySearchDemo.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/BinarySearch/BinarySearchDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/MorethanHalfNumber/MorethanHalfNumber.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Array/MorethanHalfNumber/MorethanHalfNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo$Node.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/LinkedListAlgo/LinkedListAlgo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList$Node.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Linked/SingleLinkedList/SingleLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Queue/ArrayQueue/ArrayQueue.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Queue/ArrayQueue/ArrayQueue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/ArrayStack/ArrayStack.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/ArrayStack/ArrayStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack$Node.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser$LinkedListBasedStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/SampleBrowser/SampleBrowser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList$Node.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/DataStructure/Stack/StackBasedLinkedList/StackBasedLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/LeetCode/TwoSum.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/LeetCode/TwoSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/src/DataStructure/array/ArrayIndexOutBoundsException/ArrayIndexOutBounds.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/src/DataStructure/array/ArrayIndexOutBoundsException/ArrayIndexOutBounds.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/Recursion/Permutation.java" afterPath="$PROJECT_DIR$/src/Algorithm/Recursion/Permutation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java" afterPath="$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/Recursion/factorial.java" afterPath="$PROJECT_DIR$/src/Algorithm/Recursion/factorial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/Algorithm/sort/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DataStructure/array/ArrayBasic/MergeArray.java" afterPath="$PROJECT_DIR$/src/DataStructure/array/ArrayBasic/MergeArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LeetCode/MostOfArray.java" afterPath="$PROJECT_DIR$/src/LeetCode/MostOfArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java" afterPath="$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java" />
     </list>
     <ignored path="ProgramBasic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,16 +67,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithm/Recursion/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="1484">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#347#362#0" expanded="true" />
-                <element signature="e#732#741#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,88 +112,53 @@
       <file leaf-file-name="GeneratePrimes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BookNotes/GeneratePrimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924">
+            <state relative-caret-position="576">
               <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/MergeSort.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2112">
-              <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnsafeList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreadDemo/UnsafeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
               <folding>
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/QuickSort.java">
+      <file leaf-file-name="ProductConsumerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreadDemo/ProductConsumerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="984">
+              <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/SelectionSort.java">
+      <file leaf-file-name="DeadLockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreadDemo/DeadLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="288">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleRecursion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/StringAbout/StringDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sort（O（n^2））.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（n^2））.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="192">
-                <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sort（O（nlog^n））.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（nlog^n））.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -181,6 +171,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IllegalMonitorStateException</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -221,7 +216,6 @@
         <option value="$PROJECT_DIR$/src/Algorithm/sort/sort.md" />
         <option value="$PROJECT_DIR$/src/Algorithm/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/sort/sort（O（nlog^n））.md" />
-        <option value="$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/array/ArrayBasic/ArrayBasic.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/sort/QuickSort.java" />
@@ -236,6 +230,11 @@
         <option value="$PROJECT_DIR$/src/Algorithm/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/Recursion/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/TreadDemo/UnsafeList.java" />
+        <option value="$PROJECT_DIR$/src/TreadDemo/ProductConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/TreadDemo/DeadLockDemo.java" />
       </list>
     </option>
   </component>
@@ -268,6 +267,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -306,33 +307,24 @@
               <item name="ProgramBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="StringAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="BookNotes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgramBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="TreadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="E:\DevlopingSoft\node\node.exe" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -361,15 +353,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permutation">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DeadLockDemo">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.sort.*" />
+          <option name="PATTERN" value="TreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.sort.MergeSort" />
+      <option name="MAIN_CLASS_NAME" value="TreadDemo.DeadLockDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -381,14 +373,14 @@
       <module name="HelloWorld" />
       <envs />
     </configuration>
-    <configuration name="MostOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="Algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MostOfArray" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.sort.InsertSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -419,14 +411,14 @@
       <module name="HelloWorld" />
       <envs />
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.sort.*" />
+          <option name="PATTERN" value="TreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.sort.QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="TreadDemo.ProductConsumerDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -438,14 +430,14 @@
       <module name="HelloWorld" />
       <envs />
     </configuration>
-    <configuration name="SimpleRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsafeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.Recursion.*" />
+          <option name="PATTERN" value="TreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Recursion.SimpleRecursion" />
+      <option name="MAIN_CLASS_NAME" value="TreadDemo.UnsafeList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -869,19 +861,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MostOfArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SimpleRecursion" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Permutation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Permutation" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InsertSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UnsafeList" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ProductConsumerDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DeadLockDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Permutation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MergeSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MostOfArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SimpleRecursion" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DeadLockDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ProductConsumerDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UnsafeList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InsertSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -930,7 +922,16 @@
       <workItem from="1562032859780" duration="7736000" />
       <workItem from="1562114656558" duration="4469000" />
       <workItem from="1562200651413" duration="1785000" />
-      <workItem from="1563328771906" duration="12470000" />
+      <workItem from="1563328771906" duration="12522000" />
+      <workItem from="1563435247929" duration="3131000" />
+      <workItem from="1563953540324" duration="4957000" />
+      <workItem from="1564015163843" duration="1673000" />
+      <workItem from="1567839881759" duration="3052000" />
+      <workItem from="1567938074378" duration="4784000" />
+      <workItem from="1567989719189" duration="1608000" />
+      <workItem from="1568989316584" duration="3086000" />
+      <workItem from="1569028067007" duration="665000" />
+      <workItem from="1569459334592" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交">
       <created>1539565149541</created>
@@ -1016,47 +1017,55 @@
       <option name="project" value="LOCAL" />
       <updated>1546077709771</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="新增归并，快速排序相关算法">
+      <created>1563355055061</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563355055061</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270601000" />
+    <option name="totallyTimeSpent" value="293699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1038" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40778342" sideWeight="0.5030722" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27419356" sideWeight="0.4969278" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31632653" sideWeight="0.4969278" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31641287" sideWeight="0.49707174" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6543779" sideWeight="0.49707174" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21750806" sideWeight="0.7708029" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24650913" sideWeight="0.7708029" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13824885" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1486175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20095949" sideWeight="0.22919708" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5752773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3169572" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1118,31 +1127,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1315,15 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1331,10 +1308,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2112">
           <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
-          <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（n^2））.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="624">
+            <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（nlog^n））.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/StringAbout/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1346,82 +1366,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Recursion/SimpleRecursion.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/array/BinarySearch/BinarySearchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="888">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（n^2））.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="192">
-            <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/sort（O（nlog^n））.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/StringAbout/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="744">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BookNotes/GeneratePrimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
+        <state relative-caret-position="576">
           <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreadDemo/UnsafeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreadDemo/ProductConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreadDemo/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/Recursion/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="1484">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#347#362#0" expanded="true" />
-            <element signature="e#732#741#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -16,15 +16,20 @@ public class InsertSort {
         if(a.length <= 1) return;
 
         for(int i=0;i<a.length;i++){
-            int value = a[i];
             int j = i -1;
-            for(;j >=0; j--){
-                if(a[j] > value){
-                    a[j+1] = a[j];
-                }else{
-                    break;
-                }
+            int value = a[i];
+
+            //如果插入的数据比被插入的数据小
+            while(j >= 0 && value < a[j]) {
+
+                //将a[j]后移
+                a[j + 1] = a[j];
+
+                //让j向前移
+                j--;
             }
+
+            //把插入的数据放到合适的位置
             a[j+1] = value;
         }
         //输出

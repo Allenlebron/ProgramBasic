@@ -37,6 +37,7 @@ public class Permutation {
     }
 
     public void exchange(int[] nums, int i, int len) {
+
         // 将当前数组加到结果集中
         if(i==len-1) {
             List<Integer> list = new ArrayList<Integer>();
